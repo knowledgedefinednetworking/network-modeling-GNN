@@ -1,8 +1,8 @@
 # network-modeling-GNN
 
-This repository includes a collection of Graph Neural Network models applied to computer network modeling.
+This repository includes a collection of Graph Neural Network (GNN) models applied to computer network modeling.
 
-## Towards more realistic network models based on Graph Neural Networks
+**1. Towards more realistic network models based on Graph Neural Networks**
 
 This work extends RouteNet to include support for modeling end-to-end performance in networks with forwarding nodes of variable qeue size.
 
@@ -17,3 +17,5 @@ Proceedings of the 2019 ACM CoNEXT 2019 Student Workshop, Orlando, USA, December
   pages={},
   year={2019}
 }
+
+Please find the implementation of the GNN model presented in this paper at the follwoing [link](routenet_with_forwarding_nodes).
